@@ -1,13 +1,11 @@
 ![logo](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
 
 <h1 align="center">Hi 👋, I'm Juspher Estoque Balangyao</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<h3 align="center">I Love Coding and soon to be Software Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juspher20&label=Profile%20views&color=0e75b6&style=flat" alt="juspher20" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juspher20" alt="juspher20" /></a> </p>
 
 - 📫 How to reach me **codewithjuspher@gmail.com**
 
